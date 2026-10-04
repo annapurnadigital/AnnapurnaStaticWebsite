@@ -205,7 +205,7 @@ button:hover::before {
 }
 
 #postcard {
-    background-image: url(./index_files/postcard.png);
+    background-image: url(./postcard.png);
     background-size: contain;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
     padding: 20px;
@@ -420,7 +420,7 @@ body:not(.mobile) .hamburger:hover .hamburger-line:nth-child(3), .hamburger.acti
 }
 
 .header-mountain {
-    background-image: url(./index_files/mountain.png);
+    background-image: url(./mountain.png);
     background-position: center;
     background-size: cover;
     align-self: stretch;
@@ -523,7 +523,7 @@ header li {
 }
 
 .mountain-column {
-    background-image: url(./index_files/mountain.png);
+    background-image: url(./mountain.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -591,7 +591,7 @@ header li {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url(./index_files/line.svg);
+    background-image: url(./line.svg);
     background-position-x: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -781,7 +781,7 @@ h4 {
 }
 
 .friends-container {
-    background-image: url(./index_files/mountain-yellow.png);
+    background-image: url(./mountain-yellow.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -958,7 +958,7 @@ footer button:hover {
         height: auto;
     }
     .about-section::after {
-        background-image: url(./index_files/mobile-line.svg);
+        background-image: url(./mobile-line.svg);
     }
     .about-section {
         max-width: 800px;
@@ -1048,7 +1048,7 @@ footer button:hover {
 
 @media only screen and (max-width: 730px) {
     .about-section::after {
-        background-image: url(./index_files/mobile-line2.svg);
+        background-image: url(./mobile-line2.svg);
     }
     .middle {
         align-self: center;
